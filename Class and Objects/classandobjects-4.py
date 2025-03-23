@@ -1,4 +1,4 @@
-#to change the variable name to avoid getting 
+#to change the variable values in the code
 '''
 class computer:
     def __init__(self):
@@ -28,5 +28,3 @@ print(c1.name)
 print(c2.name)
 print(c1.age)
 print(c2.age)
-
-
