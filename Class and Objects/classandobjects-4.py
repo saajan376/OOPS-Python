@@ -1,4 +1,4 @@
-#to change the variable name to avoid getting 
+#to change the variable values in the code
 '''
 class computer:
     def __init__(self):
